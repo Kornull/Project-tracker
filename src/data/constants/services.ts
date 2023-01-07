@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://final-task-backend-production-87eb.up.railway.app';
+export const BASE_URL = 'https://back-tracker-production.up.railway.app/';
 
 export enum STATUS_CODES {
   OK = 200,
