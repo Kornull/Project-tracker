@@ -37,9 +37,9 @@ The choice of the stack was due to the knowledge gained during the course and th
 ***
 
 ### Backend
-[App backend](https://github.com/sylarBrest/final-task-backend) taken from [final task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/project-management-system-EN.md) with small improvements.
+[App backend](https://github.com/Kornull/Back-tracker) taken from [final task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/project-management-system-EN.md) with small improvements.
 
 ***
 
 ### Deploy
-[App deploy](https://app-project-tracker.netlify.app/) is on *Netlify*.
+[App deploy](https://kornull-project-tracker.netlify.app/) is on *Netlify*.
