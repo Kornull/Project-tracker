@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://kornullbacktrack.onrender.com/';
+export const BASE_URL = 'https://back-tracker-production.up.railway.app/';
 
 export enum STATUS_CODES {
   OK = 200,
