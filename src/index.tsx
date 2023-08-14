@@ -7,13 +7,16 @@ import './i18n';
 import store from 'redux/store';
 
 import './index.scss';
+import { ErrorBoundary } from 'components';
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 
 root.render(
   <BrowserRouter>
     <Provider store={store}>
-      <App />
+      <ErrorBoundary>
+        <App />
+      </ErrorBoundary>
     </Provider>
   </BrowserRouter>
 );
